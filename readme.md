@@ -1,6 +1,7 @@
 Asteroids
 =========
 
+
 1. Need Python 3.x installed
     * Download from [here](https://www.python.org/downloads/)
 2. Need pygame installed
