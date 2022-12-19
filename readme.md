@@ -14,3 +14,4 @@ Asteroids
     * Once PyInstaller is installed, from the main directory of cwd/Asteroids/, run this command in command terminal
     * ``` pyinstaller main.spec ```
     * The game will be compiled and built into an executable within cwd/Asteroids/dist
+5. Play the game by opening the .exe file in cwd/Asteroids/dist
